@@ -1,3 +1,15 @@
+
+PlatformIO đang âm thầm trở thành một trong những tầng cơ sở hạ tầng quan trọng nhất trong sự phát triển gắn kết hiện đại.
+
+Nền tảng nguồn mở hỗ trợ hơn 1.500 bảng bao gồm Arduino, ESP32, và STM32, đồng thời tự động hóa các công cụ, quản lý phụ thuộc, xây dựng và tải lên phần vững thông qua một quy trình làm việc thống nhất.
+
+Thay vì cấu hình thủ công các đường dẫn, thư viện và định nghĩa ban quản trị, giờ đây các nhà phát triển có thể quay các môi trường được nhúng nhúng sinh sản với một vài lệnh CLI và đường ống CI/CD nhất quán.
+
+PlatformIO cũng giao hàng với một quản lý thư viện tích hợp, tích hợp IDE và hỗ trợ bản địa cho GitHub Actions, GitLab CI và Jenkins, đưa quy trình làm việc của nhà phát triển phong cách web vào thế giới phần vững.
+
+Đối với nhiều đội IoT và được nhúng, nó đang nhanh chóng thay thế quá trình thiết lập phân vỡ đã làm chậm phát triển phần vững trong nhiều năm.
+
+
 PlatformIO Core
 ===============
 
